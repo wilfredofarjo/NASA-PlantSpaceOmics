@@ -1,0 +1,63 @@
+id.accession,organism,n_samples,n_assays,assay_names,omics_type,has_rna_seq,has_small_rna,has_microarray,has_methylation,has_proteomics,has_metabolomics,has_glycomics
+OSD-120,Arabidopsis thaliana,90,2,OSD-120_image-analysis_photography_cara | OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-121,Arabidopsis thaliana,6,3,OSD-121_glycomic-profile_elisa_thermo fisher scientific | OSD-121_morphometric-analysis_image-analysis_photography | OSD-121_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,True
+OSD-134,Arabidopsis thaliana,33,1,OSD-134_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-136,Arabidopsis thaliana,9,1,OSD-136_transcription-profiling_dna-microarray_Affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-144,Arabidopsis thaliana,24,1,OSD-144_transcription-profiling_dna-microarray_Nimblegen,Microarray,False,False,True,False,False,False,False
+OSD-147,Arabidopsis thaliana,18,1,OSD-147_transcription-profiling_dna-microarray_Affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-16,Arabidopsis thaliana,8,1,OSD-16_protein-expression-profiling_mass-spectrometry_iTRAQ,Other,False,False,False,False,True,False,False
+OSD-17,Arabidopsis thaliana,24,1,OSD-17_transcription-profiling_dna-microarray_Affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-193,Arabidopsis thaliana,32,1,OSD-193_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-205,Arabidopsis thaliana,16,1,OSD-205_transcription-profiling_dna-microarray_Affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-208,Arabidopsis thaliana,6,2,OSD-208_transcription-profiling_dna-microarray_affymetrix | OSD-208_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,True,False,False,False,False
+OSD-210,Arabidopsis thaliana,5,1,gse121111_genome_sequencing_nucleotide_sequencing,Other,False,False,False,False,False,False,False
+OSD-217,Arabidopsis thaliana,24,2,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina | OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,True,False,False,False
+OSD-218,Arabidopsis thaliana,32,1,OSD-218_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-219,Arabidopsis thaliana,32,1,gse95373_transcription_profiling_RNA_Sequencing_(RNA-Seq),RNA-seq,True,False,False,False,False,False,False
+OSD-22,Arabidopsis thaliana,20,1,OSD-22_transcription-profiling_dna-microarray_agilent,Microarray,False,False,True,False,False,False,False
+OSD-223,Arabidopsis thaliana,40,1,OSD-223_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-251,Arabidopsis thaliana,20,1,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-281,Arabidopsis thaliana,32,1,OSD-281_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-282,Arabidopsis thaliana,8,1,OSD-282_transcription-profiling_dna-microarray_Affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-296,Arabidopsis thaliana,36,1,OSD-296_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-313,Arabidopsis thaliana,18,1,OSD-313_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-314,Arabidopsis thaliana,17,1,OSD-314_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-320,Arabidopsis thaliana,44,1,OSD-320_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-321,Arabidopsis thaliana,44,1,OSD-321_transcription-profiling_rna-sequencing-(rna-seq),RNA-seq,True,False,False,False,False,False,False
+OSD-329,Arabidopsis thaliana,80,1,OSD-329_transcription-profiling_dna-microarray,Microarray,False,False,True,False,False,False,False
+OSD-346,Arabidopsis thaliana,36,1,OSD-346_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-37,Arabidopsis thaliana,56,1,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-38,Arabidopsis thaliana,36,2,OSD-38_protein-expression-profiling_mass-spectrometry_LTQ-Orbitrap Velos Pro | OSD-38_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,True,False,False
+OSD-406,Arabidopsis thaliana,24,1,OSD-406_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-411,Arabidopsis thaliana,64,1,OSD-411_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-416,Arabidopsis thaliana,48,1,OSD-416_dna-methylation-profiling_bisulfite-sequencing_Illumina,Epigenomics,False,False,False,True,False,False,False
+OSD-427,Arabidopsis thaliana,48,1,OSD-427_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-428,Arabidopsis thaliana,9,1,OSD-428_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-434,Arabidopsis thaliana,9,1,OSD-434_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-436,Arabidopsis thaliana,21,1,OSD-436_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-437,Arabidopsis thaliana,19,1,OSD-437_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-44,Arabidopsis thaliana,12,1,OSD-44_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-45,Arabidopsis thaliana,24,1,OSD-45_transcription-profiling_dna-microarray,Microarray,False,False,True,False,False,False,False
+OSD-450,Arabidopsis thaliana,15,1,OSD-450_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-46,Arabidopsis thaliana,44,1,OSD-46_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-476,Arabidopsis thaliana,20,2,OSD-476_morphometric-analysis_image-analysis_imagej | OSD-476_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-480,Arabidopsis thaliana,400,1,OSD-480_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-496,Arabidopsis thaliana,6,1,OSD-496_protein-dna-binding-site-identification_chip-seq_Illumina,Other,False,False,False,False,False,False,False
+OSD-498,Arabidopsis thaliana,16,1,OSD-498_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-502,Arabidopsis thaliana,8,1,OSD-502_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-508,Arabidopsis thaliana,36,1,OSD-508_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-510,Arabidopsis thaliana,48,1,OSD-510_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-518,Arabidopsis thaliana,21,1,OSD-518_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-519,Arabidopsis thaliana,36,1,GLDS-519_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-520,Arabidopsis thaliana,45,1,OSD-520_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Epigenomics,False,False,False,True,False,False,False
+OSD-522,Arabidopsis thaliana,36,2,OSD-522_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific) | OSD-522_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,True,False,False
+OSD-531,Arabidopsis thaliana,8,1,GLDS-531_transcription-profiling_dna-microarray_agilent,Microarray,False,False,True,False,False,False,False
+OSD-565,Arabidopsis thaliana,45,1,OSD-565_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-615,Arabidopsis thaliana,12,1,OSD-615_glycomic-profile_elisa_thermo fisher scientific,Other,False,False,False,False,False,False,True
+OSD-624,Arabidopsis thaliana,36,1,OSD-624_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-625,Arabidopsis thaliana,16,1,OSD-625_targeted-dna-methylation-profiling_ccs-long-read-dna-enzymatic-methyl-sequencing_pacific biosciences,Epigenomics,False,False,False,True,False,False,False
+OSD-658,Arabidopsis thaliana,14,1,OSD-658_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-678,Arabidopsis thaliana,36,1,OSD-678_transcription-profiling_rna-sequencing-(rna-seq)_illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-7,Arabidopsis thaliana,36,1,OSD-7_transcription-profiling_dna-microarray_affymetrix,Microarray,False,False,True,False,False,False,False
+OSD-782,Arabidopsis thaliana,36,1,OSD-782_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RNA-seq,True,False,False,False,False,False,False
+OSD-8,Arabidopsis thaliana,40,1,OSD-8_transcription-profiling_dna-microarray_Agilent,Microarray,False,False,True,False,False,False,False
