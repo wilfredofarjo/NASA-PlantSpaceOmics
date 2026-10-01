@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Raw omics data
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.bam
+*.sam
+*.cram
+
+# Large genomic files
+*.fasta
+*.fa
+*.fna
+
+# Temporary files
+tmp/
+temp/
+
+# Logs
+*.log
